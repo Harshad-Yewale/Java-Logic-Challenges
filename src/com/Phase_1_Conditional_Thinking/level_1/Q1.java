@@ -2,11 +2,13 @@ package com.Phase_1_Conditional_Thinking.level_1;
 
 import java.util.Scanner;
 
-public class DeterminePostiveNegativeOrZero {
+public class Q1 {
+
+    // Q)Take a number and print whether it’s positive, negative, or zero
 
     public static void main(String[] args){
 
-        // initializing the variable and scanner
+        // declare the variable and scanner
         int number;
         Scanner sc=new Scanner(System.in);
 
