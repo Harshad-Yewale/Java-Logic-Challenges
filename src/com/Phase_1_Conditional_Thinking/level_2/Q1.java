@@ -3,7 +3,9 @@ package com.Phase_1_Conditional_Thinking.level_2;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class ValidTriangle {
+public class Q1 {
+
+    // Q Take three sides and check if they form a valid triangle
 
     public static void main(String[] args) {
 
