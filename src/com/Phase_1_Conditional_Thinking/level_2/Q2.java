@@ -39,7 +39,7 @@ public class Q2 {
                 System.out.println("this sides does not make a valid triangle");
             }
         }
-        //handeling exceptions
+        //handling exceptions
         catch (InputMismatchException e){
             System.out.println("plz enter valid input (numbers only)");
         }
