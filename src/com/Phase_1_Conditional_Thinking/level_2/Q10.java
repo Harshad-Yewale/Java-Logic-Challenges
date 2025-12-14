@@ -3,7 +3,7 @@ package com.Phase_1_Conditional_Thinking.level_2;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Question_10 {
+public class Q10 {
 
     //Q)  Take a month number (1–12) and print the number of days in that month (ignore leap years)
 
