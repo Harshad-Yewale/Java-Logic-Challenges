@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 public class Q10 {
 
-
     public static void main(String[] args){
 
         //declare numbers
@@ -34,6 +33,7 @@ public class Q10 {
         catch (InputMismatchException e){
             System.out.println("Plz enter a valid input (number only)");
         }
+        sc.close();
     }
 
     static int findPerfectSquare(int num){
