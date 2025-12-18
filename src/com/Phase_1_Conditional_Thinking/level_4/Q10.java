@@ -25,5 +25,7 @@ public class Q10 {
         else {
             System.out.println("Password must be at least 8 characters long");
         }
+            sc.close();
+
     }
 }

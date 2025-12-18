@@ -28,6 +28,8 @@ public class Q8 {
         } catch (
                 InputMismatchException e) {
             System.out.println("invalid input (numbers only)");
+        }finally {
+            sc.close();
         }
     }
 }

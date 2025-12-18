@@ -37,5 +37,8 @@ public class Q5 {
         catch (InputMismatchException e){
             System.out.println("enter valid input (Numbers only)");
         }
+        finally {
+            sc.close();
+        }
     }
 }
