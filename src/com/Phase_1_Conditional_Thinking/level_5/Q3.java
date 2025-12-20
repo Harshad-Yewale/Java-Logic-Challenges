@@ -1,6 +1,5 @@
 package com.Phase_1_Conditional_Thinking.level_5;
 
-import java.lang.management.MonitorInfo;
 import java.util.Scanner;
 
 public class Q3 {

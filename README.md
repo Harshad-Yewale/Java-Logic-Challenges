@@ -2,7 +2,7 @@
 
 <h2>📌 About This Repository</h2>
 <p>
-This repository is created to improve my <strong>Java logical thinking and problem solving skills</strong>.
+This repository is created to improve my <strong>Java logical thinking and problem-solving skills</strong>.
 I am practicing questions based on <strong>Core Java fundamentals</strong> such as conditional statements,
 loops, recursion, arrays, strings, and combined logical challenges.
 </p>
@@ -88,6 +88,13 @@ Below is the progress checklist:
 </ul>
 
 <hr/>
+
+<h2>detailed questions</h2>
+<p>
+👉 <strong>
+<a href="Questions.md">Click here to view the complete question set</a>
+</strong>
+</p>
 
 <h2>🙌 Personal Goal</h2>
 <p>
