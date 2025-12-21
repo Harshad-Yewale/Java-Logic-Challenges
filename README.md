@@ -42,7 +42,7 @@ Below is the progress checklist:
   <li>[✅] Level 2 – Nested If & Multiple Conditions (10 Questions)</li>
   <li>[✅] Level 3 – Math & Number Logic (10 Questions)</li>
   <li>[✅] Level 4 – Logical Operators (10 Questions)</li>
-  <li>[ ] Level 5 – Creative Logical Scenarios (10 Questions)</li>
+  <li>[✅] Level 5 – Creative Logical Scenarios (10 Questions)</li>
 </ul>
 
 <h3>📍 Phase 2 – Looping & Patterns</h3>
