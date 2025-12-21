@@ -61,5 +61,6 @@ public class Q3 {
         } else {
             System.out.println("Month : " + m + "\nDate: " + day + "/" + month + "/2025");
         }
+        sc.close();
     }
 }

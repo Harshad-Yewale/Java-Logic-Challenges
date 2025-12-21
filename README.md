@@ -39,9 +39,9 @@ Below is the progress checklist:
 <h3>📍 Phase 1 – Conditional Thinking (If-Else, Boolean Logic)</h3>
 <ul>
   <li>[✅] Level 1 – Simple Conditions (10 Questions)</li>
-  <li>[ ] Level 2 – Nested If & Multiple Conditions (10 Questions)</li>
-  <li>[ ] Level 3 – Math & Number Logic (10 Questions)</li>
-  <li>[ ] Level 4 – Logical Operators (10 Questions)</li>
+  <li>[✅] Level 2 – Nested If & Multiple Conditions (10 Questions)</li>
+  <li>[✅] Level 3 – Math & Number Logic (10 Questions)</li>
+  <li>[✅] Level 4 – Logical Operators (10 Questions)</li>
   <li>[ ] Level 5 – Creative Logical Scenarios (10 Questions)</li>
 </ul>
 

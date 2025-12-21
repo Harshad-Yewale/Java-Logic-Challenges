@@ -52,5 +52,6 @@ public class Q4 {
         catch (InputMismatchException e){
             System.out.println("invalid input plz enter valid numbers only");
         }
+        sc.close();
     }
 }
