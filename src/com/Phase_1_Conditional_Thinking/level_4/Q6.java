@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Q6 {
 
-    //Q6) Take two numbers and check if both are positive and their sum is less than 100.
+    //Q5) Take two numbers and check if both are positive and their sum is less than 100.
 
     public  static void main(String [] args) {
         //declare variables
