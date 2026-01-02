@@ -2,7 +2,7 @@ package Phase_2_LOOPING_And_PATTERNS.level_4;
 
 import java.util.Scanner;
 
-public class Pattterns_Questions_11_25 {
+public class Patterns_Questions_11_25 {
 
     public static void main(String[] args) {
 
