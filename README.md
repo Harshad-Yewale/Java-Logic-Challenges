@@ -49,9 +49,9 @@ Below is the progress checklist:
 <ul>
   <li>[✅] Basic Looping (10 Questions)</li>
   <li>[✅] Number-based Loop Logic (10 Questions)</li>
-  <li>[ ] Mathematical Patterns (10 Questions)</li>
-  <li>[ ] Pattern Printing (Star & Numeric)</li>
-  <li>[ ] Logical Loop Combinations (10 Questions)</li>
+  <li>[✅] Mathematical Patterns (10 Questions)</li>
+  <li>[✅] Pattern Printing (Star & Numeric)</li>
+  <li>[✅] Logical Loop Combinations (10 Questions)</li>
 </ul>
 
 <h3>📍 Phase 3 – Recursion</h3>
