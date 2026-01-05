@@ -38,53 +38,53 @@ Below is the progress checklist:
 
 <h3>📍 Phase 1 – Conditional Thinking (If-Else, Boolean Logic)</h3>
 <ul>
-  <li>[✅] Level 1 – Simple Conditions (10 Questions)</li>
-  <li>[✅] Level 2 – Nested If & Multiple Conditions (10 Questions)</li>
-  <li>[✅] Level 3 – Math & Number Logic (10 Questions)</li>
-  <li>[✅] Level 4 – Logical Operators (10 Questions)</li>
-  <li>[✅] Level 5 – Creative Logical Scenarios (10 Questions)</li>
+  <li>✅ Level 1 – Simple Conditions (10 Questions)</li>
+  <li>✅ Level 2 – Nested If & Multiple Conditions (10 Questions)</li>
+  <li>✅  Level 3 – Math & Number Logic (10 Questions)</li>
+  <li>✅ Level 4 – Logical Operators (10 Questions)</li>
+  <li>✅ Level 5 – Creative Logical Scenarios (10 Questions)</li>
 </ul>
 
 <h3>📍 Phase 2 – Looping & Patterns</h3>
 <ul>
-  <li>[✅] Basic Looping (10 Questions)</li>
-  <li>[✅] Number-based Loop Logic (10 Questions)</li>
-  <li>[✅] Mathematical Patterns (10 Questions)</li>
-  <li>[✅] Pattern Printing (Star & Numeric)</li>
-  <li>[✅] Logical Loop Combinations (10 Questions)</li>
+  <li>✅ Basic Looping (10 Questions)</li>
+  <li>✅ Number-based Loop Logic (10 Questions)</li>
+  <li>✅ Mathematical Patterns (10 Questions)</li>
+  <li>✅ Pattern Printing (Star & Numeric)</li>
+  <li>✅  Logical Loop Combinations (10 Questions)</li>
 </ul>
 
 <h3>📍 Phase 3 – Recursion</h3>
 <ul>
-  <li>[ ] Foundation of Recursion (10 Questions)</li>
-  <li>[ ] Number-based recursive problems (10 Questions)</li>
-  <li>[ ] Pattern printing recursively</li>
-  <li>[ ] String-based recursive problems (10 Questions)</li>
+  <li>✅  Foundation of Recursion (10 Questions)</li>
+  <li>⬜ Number-based recursive problems (10 Questions)</li>
+  <li>⬜ Pattern printing recursively</li>
+  <li>⬜ String-based recursive problems (10 Questions)</li>
 </ul>
 
 <h3>📍 Phase 4 – Arrays (Iterative Logic)</h3>
 <ul>
-  <li>[ ] Basic array operations (10 Questions)</li>
-  <li>[ ] Searching & frequency logic (10 Questions)</li>
-  <li>[ ] Transformation & manipulation (10 Questions)</li>
-  <li>[ ] Comparison & aggregation</li>
+  <li>⬜ Basic array operations (10 Questions)</li>
+  <li>⬜ Searching & frequency logic (10 Questions)</li>
+  <li>⬜ Transformation & manipulation (10 Questions)</li>
+  <li>⬜ Comparison & aggregation</li>
 </ul>
 
 <h3>📍 Phase 5 – String Problems</h3>
 <ul>
-  <li>[ ] Basic string handling (10 Questions)</li>
-  <li>[ ] Counting & character analysis (10 Questions)</li>
-  <li>[ ] Reversing & palindrome thinking (10 Questions)</li>
-  <li>[ ] Character & word manipulation (10 Questions)</li>
+  <li>⬜ Basic string handling (10 Questions)</li>
+  <li>⬜ Counting & character analysis (10 Questions)</li>
+  <li>⬜ Reversing & palindrome thinking (10 Questions)</li>
+  <li>⬜ Character & word manipulation (10 Questions)</li>
 </ul>
 
 <h3>📍 Phase 6 – Mixed Logical Challenges</h3>
 <ul>
-  <li>[ ] Number-based logic</li>
-  <li>[ ] String + Logic mix</li>
-  <li>[ ] Array + logic mixes</li>
-  <li>[ ] Nested reasoning problems</li>
-  <li>[ ] Real-life applied logic</li>
+  <li>⬜ Number-based logic</li>
+  <li>⬜ String + Logic mix</li>
+  <li>⬜ Array + logic mixes</li>
+  <li>⬜ Nested reasoning problems</li>
+  <li>⬜ Real-life applied logic</li>
 </ul>
 
 <hr/>
